@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.marker {
+    right: calc(23%);
+    z-index: -1;
+}
